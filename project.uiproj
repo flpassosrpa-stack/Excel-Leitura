@@ -1,0 +1,6 @@
+{
+  "Name": "Execel_Consolidação",
+  "ProjectType": "Process",
+  "Description": "Processo em Branco",
+  "MainFile": "Main.xaml"
+}
